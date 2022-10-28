@@ -1,0 +1,18 @@
+{
+    "spices": [
+      {
+        "id": 1,
+        "food": "salmon",
+        "spice": "thyme"
+      },
+      {
+        "id": 2,
+        "food": "salmon",
+        "spice": "curry"
+      },
+      {
+        "id": 3,
+        "food": "broccoli",
+        "spice": "dill"
+      }]
+  } 
